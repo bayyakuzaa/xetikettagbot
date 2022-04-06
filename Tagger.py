@@ -28,7 +28,7 @@ async def start(event):
                     buttons=(
                    
 		      [Button.url('Beni Gruba Ekle ➕', 'https://t.me/xetikettag_bot?startgroup=a')],
-                      [Button.url('Sahibim 👤', 'https://t.me/')],
+                      [Button.url('Sahibim 👤', 'https://t.me/Alibeyinizz')],
                     ),
                     link_preview=False
                    )
@@ -38,7 +38,7 @@ async def help(event):
   await event.reply(helptext,
                     buttons=(
                       [Button.url('Beni Gruba Ekle ➕', 'https://t.me/xetikettag_bot?startgroup=a')],
-                      [Button.url('Sahibim 👤', 'https://t.me/')],
+                      [Button.url('Sahibim 👤', 'https://t.me/Alibeyinizz')],
                     ),
                     link_preview=False
                    )
